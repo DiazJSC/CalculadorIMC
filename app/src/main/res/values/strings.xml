@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC_tusalud</string>
+    <string name="peso_bajo">Peso bajo (&lt; 18.5): Aumenta tu ingesta calórica con alimentos nutritivos y consulta a un especialista para evitar deficiencias nutricionales.</string>
+    <string name="obesidad_extrema">Obesidad extrema (&gt; 35): Es fundamental recibir orientación médica para evitar riesgos graves de salud. Un plan estructurado con especialistas es clave.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

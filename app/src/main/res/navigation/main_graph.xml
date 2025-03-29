@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.imc_tusalud.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_detallesFragment"
+            app:destination="@id/detallesFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_ajustesFragment3"
+            app:destination="@id/ajustesFragment3" />
+    </fragment>
+    <fragment
+        android:id="@+id/detallesFragment"
+        android:name="com.example.imc_tusalud.DetallesFragment"
+        android:label="fragment_detalles"
+        tools:layout="@layout/fragment_detalles" >
+        <action
+            android:id="@+id/action_detallesFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ajustesFragment3"
+        android:name="com.example.imc_tusalud.AjustesFragment"
+        android:label="fragment_ajustes"
+        tools:layout="@layout/fragment_ajustes" >
+        <action
+            android:id="@+id/action_ajustesFragment3_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>
