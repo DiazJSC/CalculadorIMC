@@ -1,5 +1,5 @@
 # CalculadorIMC
-IMC TuSalud es una aplicación móvil en Android que permite calcular el Índice de Masa Corporal (IMC) y proporciona recomendaciones basadas en el resultado.
+IMC TuSalud es una aplicación móvil desarrollada en Android Studio y lenguaje Kontlin, que permite calcular el Índice de Masa Corporal (IMC) y proporciona recomendaciones basadas en el resultado.
 
 ## Pantallas para interactuar:
 - 1️⃣ Inicio: Interfaz para calcular el IMC en base a peso y altura (Se te brindará una recomendación según el resultado).
