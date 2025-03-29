@@ -10,3 +10,9 @@ IMC TuSalud es una aplicación móvil desarrollada en Android Studio y lenguaje 
 - 🔹 Kotlin - Lenguaje de programación principal.
 - 🔹 Android Jetpack - LiveData, ViewModel, Navigation.
 - 🔹 XML - Diseño de interfaces.
+
+## Captura de pantalla aplicación
+![image](https://github.com/user-attachments/assets/512cea8d-c5ac-4dc0-924c-a8c1d6247bcb)
+![image](https://github.com/user-attachments/assets/cfa7c31c-d5bd-42fb-aa36-1c6893a5e30b)
+![image](https://github.com/user-attachments/assets/9703b19b-52e1-402c-98cb-aebb1e7244a3)
+
